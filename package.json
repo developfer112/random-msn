@@ -1,0 +1,20 @@
+{
+  "name": "random-msn",
+  "version": "1.0.0",
+  "description": "White a random name based on a list, i'll do better the next time, i promise",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Fernando Paredes Rios <fprios112@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
