@@ -14,7 +14,15 @@
   "author": "Fernando Paredes Rios <fprios112@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developfer112/random-msn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/developfer112/random-msn/issues"
+  },
+  "homepage": "https://github.com/developfer112/random-msn#readme"
 }
